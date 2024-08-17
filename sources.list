@@ -1,0 +1,11 @@
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal main restricted
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal-updates main restricted
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal universe
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal-updates universe
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal multiverse
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal-updates multiverse
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal-backports main restricted universe multiverse
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal-security main restricted
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal-security universe
+deb http://mirror.cse.iitk.ac.in/ubuntu/ focal-security multiverse
+
